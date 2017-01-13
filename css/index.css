@@ -1,0 +1,17 @@
+/*
+* @Author: Administrator
+* @Date:   2017-01-13 16:29:28
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-01-13 16:34:08
+*/
+
+body,html{
+	background-color: yellow;
+}
+p{
+	color: blue;
+}
+h1{
+	color:pink;
+	font-size:20px;
+}
